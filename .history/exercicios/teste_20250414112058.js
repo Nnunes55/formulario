@@ -1,0 +1,3 @@
+function armazenar() {
+    var numero = 
+}
