@@ -1,0 +1,21 @@
+.body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#showMessage{
+    text-align: center;
+}
+#parag{
+    margin-bottom: -17px;
+    
+}
+#sendEmail{
+    text-align: center;
+}
+#sendEmail2{
+    width: 300px;;
+}
+#parag{
+    margin-right: px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
